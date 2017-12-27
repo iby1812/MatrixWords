@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512921776 source:c:\users\itay1\desktop\codeblock\matrixwords\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1512896317 source:c:\users\itay1\desktop\codeblock\matrixwords\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
